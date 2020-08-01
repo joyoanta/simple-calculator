@@ -1,0 +1,30 @@
+body{
+
+
+}
+
+.calculator{
+
+    height: 400px;
+    width: 320px;
+    background-color: whitesmoke;
+    margin-top: 100px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 15px gray;
+}
+
+.main-bar{
+
+    margin-bottom: 30px;
+    text-align: right;
+}
+
+.btn{
+
+    margin-bottom: 12px;
+    font-size: 20px;
+    cursor: pointer;
+    width: 60px;
+    
+}
