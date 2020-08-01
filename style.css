@@ -1,7 +1,4 @@
-body{
 
-
-}
 
 .calculator{
 
@@ -27,4 +24,10 @@ body{
     cursor: pointer;
     width: 60px;
     
+}
+
+#input-area{
+
+    font-size: 25px;
+    font-weight: 500;
 }
