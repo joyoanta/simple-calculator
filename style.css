@@ -1,3 +1,8 @@
+body{
+
+    background-image: url(images/background.jpg);
+    background-position: bottom;
+}
 
 
 .calculator{
@@ -5,9 +10,9 @@
     height: 400px;
     width: 320px;
     background-color: whitesmoke;
-    margin-top: 100px;
+    margin-top: 150px;
     padding: 30px;
-    border-radius: 5px;
+    border-radius: 10px;
     box-shadow: 1px 1px 15px gray;
 }
 
@@ -24,10 +29,23 @@
     cursor: pointer;
     width: 60px;
     
+    
+}
+
+#reset{
+    width: 120px;
 }
 
 #input-area{
 
     font-size: 25px;
     font-weight: 500;
+}
+
+footer{
+
+    text-align: center;
+    color:white;
+    margin-top: 20px;
+    margin-bottom: 100px;
 }
