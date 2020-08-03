@@ -2,7 +2,7 @@ function inputDigit(num){
     form.display.value =  form.display.value + num;
     }
 
-// > backspace button 
+// CE backspace button 
 
 document.getElementById("remove").addEventListener('click', function(){
 
